@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exercise3</string>
+    <string name="welcome_header">Welcome, skentir!</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="price">Price</string>
+    <string name="category">Category</string>
+
+</resources>

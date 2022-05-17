@@ -1,0 +1,9 @@
+<ImageView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/carousell_item"
+    android:layout_width="130dp"
+    android:layout_height="100dp"
+    android:src="@drawable/test"
+    android:layout_margin="10dp"
+    android:foreground="#00FFFFFF"
+    />
